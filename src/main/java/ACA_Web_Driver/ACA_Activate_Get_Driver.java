@@ -23,7 +23,7 @@ public class ACA_Activate_Get_Driver {
 //	    	driver = new ChromeDriver();
 	    	
 //	    	System.setProperty("webdriver.edge.driver", "C:\\Users\\Miriyala.Yamini\\Documents\\GitHub\\edgedriver_win64 (2)\\msedgedriver.exe");
-            System.setProperty("webdriver.edge.driver", "C:\\QA_Testing_Doc\\Keyword_Driven_Framework_For_ACA\\Keyword_Driven_Framework_For_ACA_With_Repository\\src\\test\\edgedriver_win64 (1)\\msedgedriver.exe");
+            System.setProperty("webdriver.edge.driver", "C:\\Keyword_Driven_Framework_ACA\\edgedriver_win64 (2)\\msedgedriver.exe");
 	    	driver = new EdgeDriver();
 	    	
 //	    	System.setProperty("webdriver.gecko.driver", "src/test/resources/geckodriver.exe");
